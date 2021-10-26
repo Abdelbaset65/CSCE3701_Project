@@ -1,0 +1,6 @@
+Name ID Fines Rewards 
+Omar 900171970 100 egp 0 
+Karim 900197017 50 egp 1 
+Sherif 900701719 200 egp 0 
+    
+    
